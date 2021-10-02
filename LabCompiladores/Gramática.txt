@@ -1,0 +1,71 @@
+♦ Gramática ♦
+
+				E → E+T | E-T | T
+Factorizados
+E → TE'
+E'→ +TE' | -TE' | epsilon
+
+				T → T*F | T/F | F
+Factorizados
+T → FT'
+T' → *FT' | /FT' | epsilon
+
+F → Pos | -Pos
+Pos→ numO | (E)
+O → numO | Epsilon
+-------------------------------------------------------
+•FIRST•
+
+First E
+	First T
+	{num,(,-}
+
+First E'
+	{+,-,epsilon}
+
+First T
+	First F
+	{num,(,-}
+
+First T'
+	{*,/,epsilon}
+
+First F
+	First Pos U -
+	{num,(,-}	
+
+First Pos
+	num U (
+	{num,(}
+
+First O
+	{num,Epsilon}
+----------------------------------------------------
+•FOLLOW•
+
+Follow E
+	{),$}
+
+Follow T
+	First E' -Epsilon U Follow E
+	{+,-,),$}
+
+Follow T'
+	Follow T
+	{+,-,),$}
+
+Follow E'
+	Follow E
+	{),$}
+
+Follow F
+	First T' - Epsilon U Follow T
+	{*,/,+,-,),$}	
+
+Follow Pos
+	Follow F
+	{*,/,+,-,),$}
+
+Follow O
+	Follow Pos
+	{*,/,+,-,),$}

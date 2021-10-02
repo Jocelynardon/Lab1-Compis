@@ -1,0 +1,13 @@
+C:\Users\jocel\source\repos\LabCompiladores\Lab01_JocelydeLeon_1305619\obj\Debug\netcoreapp3.1\Lab01_JocelydeLeon_1305619.csproj.AssemblyReference.cache
+C:\Users\jocel\source\repos\LabCompiladores\Lab01_JocelydeLeon_1305619\obj\Debug\netcoreapp3.1\Lab01_JocelydeLeon_1305619.AssemblyInfoInputs.cache
+C:\Users\jocel\source\repos\LabCompiladores\Lab01_JocelydeLeon_1305619\obj\Debug\netcoreapp3.1\Lab01_JocelydeLeon_1305619.AssemblyInfo.cs
+C:\Users\jocel\source\repos\LabCompiladores\Lab01_JocelydeLeon_1305619\obj\Debug\netcoreapp3.1\Lab01_JocelydeLeon_1305619.csproj.CoreCompileInputs.cache
+C:\Users\jocel\source\repos\LabCompiladores\Lab01_JocelydeLeon_1305619\bin\Debug\netcoreapp3.1\Lab01_JocelydeLeon_1305619.exe
+C:\Users\jocel\source\repos\LabCompiladores\Lab01_JocelydeLeon_1305619\bin\Debug\netcoreapp3.1\Lab01_JocelydeLeon_1305619.deps.json
+C:\Users\jocel\source\repos\LabCompiladores\Lab01_JocelydeLeon_1305619\bin\Debug\netcoreapp3.1\Lab01_JocelydeLeon_1305619.runtimeconfig.json
+C:\Users\jocel\source\repos\LabCompiladores\Lab01_JocelydeLeon_1305619\bin\Debug\netcoreapp3.1\Lab01_JocelydeLeon_1305619.runtimeconfig.dev.json
+C:\Users\jocel\source\repos\LabCompiladores\Lab01_JocelydeLeon_1305619\bin\Debug\netcoreapp3.1\Lab01_JocelydeLeon_1305619.dll
+C:\Users\jocel\source\repos\LabCompiladores\Lab01_JocelydeLeon_1305619\bin\Debug\netcoreapp3.1\Lab01_JocelydeLeon_1305619.pdb
+C:\Users\jocel\source\repos\LabCompiladores\Lab01_JocelydeLeon_1305619\obj\Debug\netcoreapp3.1\Lab01_JocelydeLeon_1305619.dll
+C:\Users\jocel\source\repos\LabCompiladores\Lab01_JocelydeLeon_1305619\obj\Debug\netcoreapp3.1\Lab01_JocelydeLeon_1305619.pdb
+C:\Users\jocel\source\repos\LabCompiladores\Lab01_JocelydeLeon_1305619\obj\Debug\netcoreapp3.1\Lab01_JocelydeLeon_1305619.genruntimeconfig.cache
